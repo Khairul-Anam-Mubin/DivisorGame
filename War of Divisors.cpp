@@ -3,7 +3,7 @@
 **   WAR OF DIVISORS
 **
 **   AUTHOR :
-**   Khairul Anam Mubin & Afsana Jahan Toma
+**   Khairul Anam Mubin
 **   Dept. of CSE,Intake : 38
 **   Bangladesh University of Business and Technology
 **
